@@ -14,4 +14,4 @@ The code for the project was written in Python 3.7.5 language and the environmen
 
 
 ***NOTE***
-Data is confidential therefore not provided with this repository.
+Data is confidential, therefore not provided with this repository.
